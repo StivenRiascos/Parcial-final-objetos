@@ -1,0 +1,63 @@
+Listado de salidas: 
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+Aeropuerto: Barcelona - El Prat
+
+Destino - Aeropuerto      Duracion        Compañia        Avion      Plazas  Cronograma
+--------------------------------------------------------------------------------------------------------------
+Madrid - Barajas          01:00           Iberia          Airbus     150     L-15:00 X-15:00 V-15:00 D-15:00
+London - Heathrow         01:05           British Air     Boeing     180     L-10:00 J-10:00
+London - Heathrow         01:10           Ryan Air        Airbus     120     L-10:00 J-10:00
+Madrid - Barajas          01:00           Spanair         Airbus     150     1/2009/15 20:30
+Madrid - Barajas          01:00           Spanair         Airbus     150     1/2009/15 20:30
+London - Heathrow         01:00           British Air     Boeing     180     2/2009/22 20:30
+London - Heathrow         01:00           Ryan Air        Airbus     120     1/2009/25 15:18
+--------------------------------------------------------------------------------------------------------------
+
+
+Aeropuerto: Madrid - Barajas
+
+Destino - Aeropuerto      Duracion        Compañia        Avion      Plazas  Cronograma
+--------------------------------------------------------------------------------------------------------------
+Barcelona - El Prat       01:00           Iberia          Airbus     150     L-18:00 J-20:00 S-20:00
+Barcelona - El Prat       01:00           Iberia          Airbus     150     1/2009/22 20:30
+--------------------------------------------------------------------------------------------------------------
+
+
+Aeropuerto: Paris - Orly
+
+Destino - Aeropuerto      Duracion        Compañia        Avion      Plazas  Cronograma
+--------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------
+
+
+Aeropuerto: London - Heathrow
+
+Destino - Aeropuerto      Duracion        Compañia        Avion      Plazas  Cronograma
+--------------------------------------------------------------------------------------------------------------
+Barcelona - El Prat       01:05           British Air     Boeing     180     L-15:00 J-15:00
+Barcelona - El Prat       01:10           Ryan Air        Airbus     120     J-15:10 J-15:10
+Sao Paulo - Guarulhos     07:00           British Air     Boeing     200     X-09:45 J-09:45 S-09:45
+Barcelona - El Prat       01:00           British Air     Boeing     180     3/2009/05 15:19
+Barcelona - El Prat       01:00           British Air     Boeing     180     3/2009/05 15:19
+--------------------------------------------------------------------------------------------------------------
+
+
+Aeropuerto: Sao Paulo - Guarulhos
+
+Destino - Aeropuerto      Duracion        Compañia        Avion      Plazas  Cronograma
+--------------------------------------------------------------------------------------------------------------
+Madrid - Barajas          07:00           British Air     Boeing     200     X-20:25 J-20:25 S-20:25
+Sao Paulo - Guarulhos     01:00           Ryan Air        Airbus     120     1/2009/31 22:20
+--------------------------------------------------------------------------------------------------------------
+
+
+Aeropuerto: Sibundoy - Guarulhos
+
+Destino - Aeropuerto      Duracion        Compañia        Avion      Plazas  Cronograma
+--------------------------------------------------------------------------------------------------------------
+Sao Paulo - Guarulhos     01:00           Ryan Air        Airbus     120     1/2009/31 22:20
+--------------------------------------------------------------------------------------------------------------
